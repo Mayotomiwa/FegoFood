@@ -1,2 +1,0 @@
-# FegoFood
-Food Delivery application
